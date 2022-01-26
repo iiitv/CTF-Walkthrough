@@ -1,5 +1,5 @@
 
-# Welcome to Hogwarts
+# 12 Muggles
 
 
 ## Link to the Question
