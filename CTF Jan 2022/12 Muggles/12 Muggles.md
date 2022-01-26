@@ -33,4 +33,4 @@ The cipher code is hidden in the image using steganography, so to run the file y
 
 ![Cipher](./cipher.png)
 
-Decrypt the DNA COde using the cipher and get your flag!
+Decrypt the DNA Code using the cipher and get your flag!
