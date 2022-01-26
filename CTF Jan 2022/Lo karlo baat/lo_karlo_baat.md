@@ -1,6 +1,6 @@
 # DD2D
 ## Link to the Question
-
+[Click here](https://gist.github.com/vidit2512/ef5e26f50a9516f06c429df831148ef9)
 
 ## Answer
 ```
