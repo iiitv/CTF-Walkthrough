@@ -18,7 +18,7 @@ flag{YEAHITSMEWORMTAIL}
 
 As the Question clearly states the word "genes", it is a clear indication of DNA Cipher. Second hint for the same was in the Code where the terms AGCT are used which are the 4 types of DNA molecules present namely adenine (A), cytosine (C), guanine (G), and thymine (T).
 
-## Answer
+## Code
 
 ```
 
